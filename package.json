@@ -1,0 +1,19 @@
+{
+  "name": "dailies",
+  "version": "1.0.0",
+  "description": "a web utility to help you write & learn to write",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindublin/Dailies.git"
+  },
+  "author": "Kevin Dublin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevindublin/Dailies/issues"
+  },
+  "homepage": "https://github.com/kevindublin/Dailies#readme"
+}
